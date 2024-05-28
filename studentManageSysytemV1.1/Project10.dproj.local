@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.506,C:\Users\19711\Documents\RAD Studio\Projects\oracle\StudentList.dfm=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit15.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.002,C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit15.pas=C:\Users\19711\Documents\RAD Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.377,C:\Users\19711\Documents\RAD Studio\Projects\oracle\StudentDlg.pas=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.506,C:\Users\19711\Documents\RAD Studio\Projects\oracle\StudentList.pas=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit15.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.255,=C:\Users\19711\Documents\RAD Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.754,=C:\Users\19711\Documents\RAD Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.101,C:\Users\19711\Documents\RAD Studio\Projects\oracle\Project00.dproj=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Project10.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.805,=C:\Users\19711\Documents\RAD Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.377,C:\Users\19711\Documents\RAD Studio\Projects\oracle\StudentDlg.dfm=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.002,C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit15.dfm=C:\Users\19711\Documents\RAD Studio\Projects\Unit15.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.607,C:\Users\19711\Documents\RAD Studio\Projects\oracle\Project10.dproj=C:\Users\19711\Documents\RAD Studio\Projects\Project10.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.751,C:\Users\19711\Documents\RAD Studio\Projects\oracle\Project10.dproj=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Project00.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.711,=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.024,=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.239,=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.770,=C:\Users\19711\Documents\RAD Studio\Projects\oracle\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
